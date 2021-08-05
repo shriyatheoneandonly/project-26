@@ -1,2 +1,1 @@
-# project-26
-Archery game stage 4
+# Project Template 26
